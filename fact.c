@@ -1,11 +1,13 @@
 //factorial of a number
 #include<stdio.h>
-int fact(int n)
+//fuck you abhi 
+//THIS CODE SUCKS
+int fact(int i)
 {
-    if(n==0)
+    if(I==0)
     return 1;
     else
-    return fact(n-1)*n;
+    return fact(I-1)*I;
 }
 int main()
 {
